@@ -15,7 +15,7 @@
     </author>
  	<content src="package.json" />
     <access origin="*" />
-	
+	<gap:plugin name="nl.x-services.plugins.toast" version="2.0" />
     <preference name="EnableDeveloperConsole" value="true"/>
 	<platform name="android"> 
 	 <icon src="Icon.png" />
